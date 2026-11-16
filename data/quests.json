@@ -1,0 +1,9 @@
+[
+  {"id":"study-001","title":"擊敗作業巨龍","description":"完成一份作業，奪回知識寶藏。","category":"study","difficulty":"medium","xp":50,"icon":"📚"},
+  {"id":"study-002","title":"古書解密","description":"專注閱讀或學習 20 分鐘。","category":"study","difficulty":"easy","xp":20,"icon":"📖"},
+  {"id":"health-001","title":"森林巡邏","description":"散步或運動 30 分鐘。","category":"health","difficulty":"medium","xp":50,"icon":"🌲"},
+  {"id":"health-002","title":"補給生命藥水","description":"今天記得適量補充飲水。","category":"health","difficulty":"easy","xp":20,"icon":"💧"},
+  {"id":"health-003","title":"晨光冒險","description":"早晨散步 10 分鐘","category":"health","difficulty":"easy","xp":20,"icon":"🌅"},
+  {"id":"life-001","title":"整理冒險背包","description":"整理書桌或房間 15 分鐘。","category":"life","difficulty":"easy","xp":20,"icon":"🎒"},
+  {"id":"creative-001","title":"鍛造靈感神器","description":"完成一個小型創作或個人專案。","category":"creative","difficulty":"hard","xp":100,"icon":"✨"}
+]
